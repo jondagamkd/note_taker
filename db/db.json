@@ -1,16 +1,6 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "11111",
-    "text": "22222",
-    "id": "1"
-  },
-  {
-    "title": "3333",
-    "text": "44444",
-    "id": "2"
+    "title": "Enter Title Here.",
+    "text": "Note test here."
   }
 ]
